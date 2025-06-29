@@ -60,6 +60,8 @@ b'\x16\x03\x01...'
 sniffer.py – main packet sniffer script
 
 ## 💼 Author
-Osman Habo – Cyber Security Intern @ CodeAlpha
+Osman Hassbo – Cyber Security Intern @ CodeAlpha
 LinkedIn: https://www.linkedin.com/in/osman-hassabalrsoul-594419224/
 Email: osmanhasspo@gmail.com
+X(Twitter): https://x.com/osman_hassabo?t=U1yOEacEQWrLUiPs8JHypw&s=09
+Facebook: https://www.facebook.com/share/1CH1FcEJja/
